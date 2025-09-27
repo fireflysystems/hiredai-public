@@ -1,0 +1,2 @@
+# hiredai-public
+HiredAi Platform
